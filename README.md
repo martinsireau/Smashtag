@@ -3,7 +3,7 @@ Twitter Client for IPhone
 
 <br/>
 <div align="center">
-<img src="http://imgur.com/XFKyn7X" width="60%" />
+<img src="http://i.imgur.com/XFKyn7X.gif" width="60%" />
 </div>
 
 <br/>
